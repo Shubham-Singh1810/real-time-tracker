@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
 // Icons setup
 const driverIcon = L.icon({
-    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/128/9561/9561688.png',
     iconSize: [25, 41], iconAnchor: [12, 41]
 });
 
